@@ -24,11 +24,11 @@ const Main = ({ children, router }) => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@crisaraoz" />
         <meta name="twitter:creator" content="@crisaraoz" />
-        <meta name="twitter:image" content="https://www.craftz.dog/card.png" />
+        <meta name="twitter:image" content="/public/apple-touch-icon.png" />
         <meta property="og:site_name" content="Cristian Araoz" />
         <meta name="og:title" content="Cristian Araoz" />
         <meta property="og:type" content="website" />
-        <meta property="og:image" content="https://www.craftz.dog/card.png" />
+        <meta property="og:image" content="/public/apple-touch-icon.png" />
         <title>Cristian Araoz - Homepage</title>
       </Head>
 
