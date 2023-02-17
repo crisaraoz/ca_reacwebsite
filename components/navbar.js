@@ -82,7 +82,8 @@ const Navbar = props => {
           </LinkItem>
           <LinkItem
             target="_blank"
-            href="https://github.com/crisaraoz/ca_reacwebsite"
+            //href="https://github.com/crisaraoz/ca_reacwebsite"
+            href="https://github.com/crisaraoz"
             path={path}
             display="inline-flex"
             alignItems="center"
